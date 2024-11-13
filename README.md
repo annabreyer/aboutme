@@ -41,9 +41,13 @@ I'm actively involved in making tech more inclusive and diverse:
 - Mentor and advocate for women in technology
 - Creating spaces where developers can grow and innovate
 
+## 📚 Beyond Code
+When I'm not coding or leading teams, you'll find me:
+- Lost in fantasy and sci-fi worlds (books, movies, you name it!)
+- Discussing feminist perspectives in tech and beyond
+- Creating spaces for meaningful conversations
+- Exploring ways to make tech more inclusive and accessible
+
 ## 🤝 Let's Connect
 Interested in building products that make a difference, team leadership, or creating user-focused solutions? Let's chat!
 
----
-
-How's this? I've added a dedicated community engagement section to highlight your involvement with tech communities and your commitment to diversity in tech. Would you like to expand on any particular aspect of your community involvement?
