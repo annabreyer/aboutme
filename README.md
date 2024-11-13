@@ -20,7 +20,6 @@ I'm working on a coworking space management application with Symfony 7, where I 
 - Solve real organizational challenges
 - Create intuitive backend solutions
 - Build features that make a difference
-- Lead development decisions
 
 ## 🔧 Tech Stack
 - **Core:** PHP, Symfony
@@ -38,8 +37,6 @@ Currently expanding my knowledge in:
 I'm actively involved in making tech more inclusive and diverse:
 - Member of Ladies of Code Paris
 - Member of Women in Tech DACH
-- Mentor and advocate for women in technology
-- Creating spaces where developers can grow and innovate
 
 ## 📚 Beyond Code
 When I'm not coding or leading teams, you'll find me:
